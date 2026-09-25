@@ -1,0 +1,6 @@
+{
+  "name": "Motion Studio",
+  "description": "Professional AI and procedural image-to-motion studio for stock creators and content producers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
